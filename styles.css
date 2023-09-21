@@ -1,0 +1,30 @@
+body { margin:0; }
+
+.navbar {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+    position: fixed;
+    background-color: white;
+    box-shadow: 0 25px 50px #00000050;
+}
+
+.navpages > a {
+    text-decoration-thickness: 0px;
+    text-decoration-color: transparent;
+    font-size: large;
+    color: black;
+    transition-duration: 200ms;
+}
+
+.navpages > a:hover {
+    text-decoration-thickness: 2px;
+    text-decoration-color: black;
+    color: black;
+    transition-duration: 200ms;
+}
+
+.banner {
+    width: 100vw;
+}
