@@ -1,6 +1,6 @@
 # Setup
-title: Dark Poole
-url: https://getpoole.com
+title: ~enderprism
+url: https://enderprism.github.io
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -32,8 +32,8 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
+  name: EnderPrism
+  url: https://github.com/enderprism
   email: markdotto@gmail.com
 
 # Custom vars

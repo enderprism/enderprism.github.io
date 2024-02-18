@@ -19,6 +19,7 @@ _site
 
 # OS or Editor folders
 .DS_Store
+.vscode
 ._*
 Thumbs.db
 .cache
@@ -42,5 +43,5 @@ validation-report.json
 # Folders to ignore
 node_modules
 
-# VS Code folder
-.vscode
+# Local Jekyll installation
+.bundle
