@@ -1,0 +1,71 @@
+baseURL = 'https://enderprism.github.io/'
+languageCode = 'en-us'
+title = "EnderPrism's Site"
+
+theme = "nightfall"
+
+
+
+[markup]
+  [markup.highlight]
+    style = 'catppuccin-mocha'
+    tabWidth = 4
+
+
+
+[menu]
+  [[menu.header]]
+    name = "blog"
+    weight = 0
+    url = "blog"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "about"
+
+[params]
+user = "enderprism"
+hostname = "github.io"
+  [params.author]
+    name = "EnderPrism"  # Website and RSS feed author
+    email = "email@example.com"  # RSS feed email address
+
+
+readingTime = true  # Show reading time on post page
+published = true  # Show published data on post page
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/enderprism"
+icon = "fa-brands fa-github"
+
+[[params.social]]
+key = 1
+name = "youtube"
+url = "https://www.youtube.com/@enderprism"
+icon = "fa-brands fa-youtube"
+
+[[params.social]]
+key = 2
+name = "twitter"
+url = "https://twitter.com/EnderPrismYT"
+icon = "fa-brands fa-twitter"
+
+[[params.social]]
+key = 3
+name = "mastodon"
+url = "https://mastodon.top/@enderprism"
+icon = "fa-brands fa-mastodon"
+
+[[params.social]]
+key = 4
+name = "soundcloud"
+url = "https://soundcloud.com/enderprism"
+icon = "fa-brands fa-soundcloud"
+
+[[params.social]]
+key = 5
+name = "steam"
+url = "https://steamcommunity.com/id/EnderPrismYT/"
+icon = "fa-brands fa-steam"
