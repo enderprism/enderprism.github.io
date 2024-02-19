@@ -10,6 +10,8 @@ theme = "nightfall"
   [markup.highlight]
     style = 'catppuccin-mocha'
     tabWidth = 4
+  [markup.goldmark.renderer]
+    unsafe = true
 
 
 
