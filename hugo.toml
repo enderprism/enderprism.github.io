@@ -21,8 +21,12 @@ theme = "nightfall"
     weight = 0
     url = "blog"
   [[menu.header]]
-    name = "about"
+    name = "portfolio"
     weight = 1
+    url = "portfolio"
+  [[menu.header]]
+    name = "about"
+    weight = 2
     url = "about"
 
 [params]
