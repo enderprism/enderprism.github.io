@@ -46,3 +46,7 @@ node_modules
 
 # Local Jekyll installation
 .bundle
+
+# Hugo
+/public/
+/resources/_gen/
