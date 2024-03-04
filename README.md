@@ -1,6 +1,6 @@
 # EnderPrism's Website
 
-Mainly an extended 'About Me' but also functions as a blog.
+Mainly an extended 'About Me' but also functions as a blog and a portfolio.
 
 ## Additional info
 
