@@ -1,6 +1,6 @@
 baseURL = 'https://enderprism.github.io/'
 languageCode = 'en-us'
-title = "EnderPrism's Site"
+title = "enderprism's Site"
 
 theme = "nightfall"
 
@@ -34,7 +34,7 @@ theme = "nightfall"
 user = "enderprism"
 hostname = "github.io"
   [params.author]
-    name = "EnderPrism"  # Website and RSS feed author
+    name = "enderprism"  # Website and RSS feed author
     email = "email@example.com"  # RSS feed email address
 
 
@@ -56,13 +56,13 @@ icon = "fa-brands fa-youtube"
 [[params.social]]
 key = 2
 name = "twitter"
-url = "https://twitter.com/EnderPrismYT"
+url = "https://twitter.com/endxrprism"
 icon = "fa-brands fa-twitter"
 
 [[params.social]]
 key = 3
 name = "mastodon"
-url = "https://mastodon.top/@enderprism"
+url = "https://iceshrimp.social/@enderprism"
 icon = "fa-brands fa-mastodon"
 
 [[params.social]]
@@ -74,5 +74,5 @@ icon = "fa-brands fa-soundcloud"
 [[params.social]]
 key = 5
 name = "steam"
-url = "https://steamcommunity.com/id/EnderPrismYT/"
+url = "https://steamcommunity.com/id/endxrprism/"
 icon = "fa-brands fa-steam"
